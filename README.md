@@ -4,15 +4,15 @@ Saya seorang Mahasiswa Teknik Informatika yang berasal dari Universitas Islam Ma
 
 |No Modul|Pertemuan|Topik|Repo|Laporan|
 |---|---|---|---|---|
-|1|1|Pengenalan Mobile Programming dan Setup Lingkungan|[Repo 1](https://pages.github.com/)|[Laporan 1](https://pages.github.com/)|
-|2|1|Widget Row dan Column|[Repo 2](https://pages.github.com/)|[Laporan 2](https://pages.github.com/)|
-|3|2|Pengaturan Layout Row dan Column di Flutter|[Repo 3](https://pages.github.com/)|[Laporan 3](https://pages.github.com/)|
-|4|2|Widget Flexible dan Expanded|[Repo 4](https://pages.github.com/)|[Laporan 4](https://pages.github.com/)|
-|5|3|Widget SizedBox, Spacer, dan Card|[Repo 5](https://pages.github.com/)|[Laporan 5](https://pages.github.com/)|
-|6|3|Widget GridView, ListView, GridView.builder, dan ListView.builder|[Repo 6](https://pages.github.com/)|[Laporan 6](https://pages.github.com/)|
-|7|4|Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route|[Repo 7](https://pages.github.com/)|[Laporan 7](https://pages.github.com/)|
-|8|4|	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route|[Repo 8](https://pages.github.com/)|[Laporan 8](https://pages.github.com/)|
-|9|5|	StatefulWidget|[Repo 9](https://pages.github.com/)|[Laporan 9](https://pages.github.com/)|
-|10|6|Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Repo 10](https://pages.github.com/)|[Laporan 10](https://pages.github.com/)|
-|11|7|Manajemen State dengan GetX|[Repo 11](https://pages.github.com/)|[Laporan 11](https://pages.github.com/)|
-|12|8|UTS|[Repo 12](https://pages.github.com/)|[Laporan 12](https://pages.github.com/)|
+|1|1|Pengenalan Mobile Programming dan Setup Lingkungan|[Repo 1](https://github.com/Akinazee/modul-1)|[Laporan 1](https://drive.google.com/file/d/1_CgLavdXuDaolOs2G2oEnq9LeIh6rCH3/view?usp=sharing)|
+|2|1|Widget Row dan Column|[Repo 2](https://github.com/Akinazee/modul-2)|[Laporan 2](https://drive.google.com/file/d/1rF7IU82E9s8I_8Ohid0QLF-CdvUrQ9gr/view?usp=sharing)|
+|3|2|Pengaturan Layout Row dan Column di Flutter|[Repo 3](https://github.com/Akinazee/modul-3)|[Laporan 3](https://drive.google.com/file/d/11e9a6vITAU2YT-ViNuUNGiRw6vm1jRXM/view?usp=sharing)|
+|4|2|Widget Flexible dan Expanded|[Repo 4](https://github.com/Akinazee/modul-4)|[Laporan 4](https://drive.google.com/file/d/1VSziPA6FW7W-E1DOl9mO15Jmg24mWQPk/view?usp=sharing)|
+|5|3|Widget SizedBox, Spacer, dan Card|[Repo 5](https://github.com/Akinazee/modul-5)|[Laporan 5](https://drive.google.com/file/d/1Nm3l2qev8S4lHZBE5YbMTHozAAfbh0ou/view?usp=sharing)|
+|6|3|Widget GridView, ListView, GridView.builder, dan ListView.builder|[Repo 6](https://github.com/Akinazee/modul-6)|[Laporan 6](https://drive.google.com/file/d/1XxdZnfRPWd8D5HWcIiCyrHRvY5kuxiOe/view?usp=sharing)|
+|7|4|Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route|[Repo 7](https://github.com/Akinazee/modul-7)|[Laporan 7](https://drive.google.com/file/d/18A8kcpXJE8UNiBbyRpcn88_GJA4nGuqT/view?usp=sharing)|
+|8|4|	Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route|[Repo 8](https://github.com/Akinazee/modul-8)|[Laporan 8](https://drive.google.com/file/d/1XBhLCoOmk69AydxTiFlyx1Qa5Pw85dLu/view?usp=sharing)|
+|9|5|	StatefulWidget|[Repo 9](https://github.com/Akinazee/modul-9)|[Laporan 9](https://drive.google.com/file/d/1F5H9drAZp6sAbEaRLyI4aCForCKf7sNc/view?usp=sharing)|
+|10|6|Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Repo 10](https://github.com/Akinazee/modul-10)|[Laporan 10](https://drive.google.com/file/d/1NKVTs00aDMcKIxvg1FJ1QOJ0qKXU-NjE/view?usp=sharing)|
+|11|7|Manajemen State dengan GetX|[Repo 11](https://github.com/Akinazee/modul-11)|[Laporan 11](https://drive.google.com/file/d/1XCeY0YCWZC8wmz1gfXeLZwzX-GMt2uKE/view?usp=sharing)|
+|12|8|UTS|[Repo 12](https://github.com/Akinazee/UTS)|[Laporan 12](https://pages.github.com/)|
