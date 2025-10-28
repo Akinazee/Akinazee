@@ -15,4 +15,4 @@ Saya seorang Mahasiswa Teknik Informatika yang berasal dari Universitas Islam Ma
 |9|5|	StatefulWidget|[Repo 9](https://github.com/Akinazee/modul-9)|[Laporan 9](https://drive.google.com/file/d/1F5H9drAZp6sAbEaRLyI4aCForCKf7sNc/view?usp=sharing)|
 |10|6|Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Repo 10](https://github.com/Akinazee/modul-10)|[Laporan 10](https://drive.google.com/file/d/1NKVTs00aDMcKIxvg1FJ1QOJ0qKXU-NjE/view?usp=sharing)|
 |11|7|Manajemen State dengan GetX|[Repo 11](https://github.com/Akinazee/modul-11)|[Laporan 11](https://drive.google.com/file/d/1XCeY0YCWZC8wmz1gfXeLZwzX-GMt2uKE/view?usp=sharing)|
-|12|8|UTS|[Repo 12](https://github.com/Akinazee/UTS)|[Laporan 12](https://pages.github.com/)|
+|12|8|UTS|[Repo 12](https://github.com/Akinazee/UTS)|[Laporan 12](https://drive.google.com/file/d/1ax4_be9q_h1Uz5P07DUMa1tUYFD3tu8A/view?usp=sharing)|
