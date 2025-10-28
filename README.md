@@ -3,6 +3,7 @@
 Saya seorang Mahasiswa Teknik Informatika yang berasal dari Universitas Islam Maulana Malik Ibrahim Malang
 
 |No Modul|Pertemuan|Topik|Repo|Laporan|
+|---|---|---|---|---|
 |1|1|Pengenalan Mobile Programming dan Setup Lingkungan|   |   |
 |2|1|Widget Row dan Column|   |   |
 |3|2|Pengaturan Layout Row dan Column di Flutter|   |   |
