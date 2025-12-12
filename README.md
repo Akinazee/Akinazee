@@ -16,3 +16,6 @@ Saya seorang Mahasiswa Teknik Informatika yang berasal dari Universitas Islam Ma
 |10|6|Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter|[Repo 10](https://github.com/Akinazee/modul-10)|[Laporan 10](https://drive.google.com/file/d/1NKVTs00aDMcKIxvg1FJ1QOJ0qKXU-NjE/view?usp=sharing)|
 |11|7|Manajemen State dengan GetX|[Repo 11](https://github.com/Akinazee/modul-11)|[Laporan 11](https://drive.google.com/file/d/1XCeY0YCWZC8wmz1gfXeLZwzX-GMt2uKE/view?usp=sharing)|
 |12|8|UTS|[Repo 12](https://github.com/Akinazee/UTS)|[Laporan 12](https://drive.google.com/file/d/1ax4_be9q_h1Uz5P07DUMa1tUYFD3tu8A/view?usp=sharing)|
+|13|9|Akses Lokasi dengan GPS di Flutter|[Repo 13](https://github.com/Akinazee/modul-12)|[Laporan 13](https://drive.google.com/file/d/1ax4_be9q_h1Uz5P07DUMa1tUYFD3tu8A/view?usp=sharing)|
+|14|10|	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API|[Repo 14](https://github.com/Akinazee/modul-13)|[Laporan 14](https://drive.google.com/file/d/1ax4_be9q_h1Uz5P07DUMa1tUYFD3tu8A/view?usp=sharing)|
+|15|11|UAS|[Repo 15](https://github.com/Akinazee/UAS)|[Laporan 15](https://drive.google.com/file/d/1ax4_be9q_h1Uz5P07DUMa1tUYFD3tu8A/view?usp=sharing)|
