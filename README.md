@@ -34,10 +34,11 @@ Akhir-akhir ini, ketertarikan saya sedang tertuju pada **Game Development**. Sek
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinazee&show_icons=true&theme=radical)](https://github.com/Akinazee)
 
 ## 📫 Mari Terhubung!
-* **LinkedIn:** [Profil LinkedIn Kamu](https://www.linkedin.com/in/farelindra/).
+* **LinkedIn:** [Click Here :3](https://www.linkedin.com/in/farelindra/).
+* **Discord:** Akinaze
 * **Email:** farelindrajanuarta9@gmail.com
 
-⭐️ *Still learning, still growing, and currently having fun building games!*
+Repo's for College mobile dev assignments:
 
 |No Modul|Pertemuan|Topik|Repo|Laporan|
 |---|---|---|---|---|
