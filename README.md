@@ -32,7 +32,7 @@ Lately, I've been really drawn to the world of **Game Development**. I'm current
 * **Discord:** Akinaze
 * **Email:** farelindrajanuarta9@gmail.com
 
-Repo's for College mobile dev assignments:
+## Repo's for College mobile dev assignments:
 
 |No Modul|Pertemuan|Topik|Repo|Laporan|
 |---|---|---|---|---|
