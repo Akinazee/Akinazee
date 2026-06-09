@@ -1,6 +1,43 @@
-# Halo, saya Farel Indra Januarta 👋
+Saya seorang Mahasiswa Teknik Informatika yang berasal dari 
 
-Saya seorang Mahasiswa Teknik Informatika yang berasal dari Universitas Islam Maulana Malik Ibrahim Malang
+# Hi there! 👋
+
+Saya adalah mahasiswa semester 6 di **Universitas Islam Maulana Malik Ibrahim Malang**. Saat ini saya masih belajar dan mengasah kemampuan di dunia pemrograman. Saya sudah sempat mencoba-coba berbagai bidang seperti *web*, dan *mobile* developmenmt, namun perjalanan belajar saya tentu masih panjang! 🌱
+
+Akhir-akhir ini, ketertarikan saya sedang tertuju pada **Game Development**. Sekarang saya sedang seru-serunya belajar dan bereksperimen membuat *game* sederhana menggunakan **Unity**, meskipun tidak menutup kemungkinan untuk mencoba belajar *game engine* lain ke depannya. 🚀
+
+## 🎯 Apa yang sedang saya pelajari & kerjakan?
+* 🎮 Sedang seru mendalami dasar-dasar *Game Development* menggunakan **Unity (C#)**.
+* 📱 Mempelajari pembuatan aplikasi *mobile* dengan **Flutter (Dart)**.
+* 💻 Mencoba *coding* untuk *web* dengan **PHP** dan mengolah data menggunakan **Python (Pandas, NumPy)**.
+* 🗄️ Berusaha memahami lebih jauh tentang konsep dan manajemen **Database**.
+* 🎨 Belajar mendesain *UI* dan membuat aset *project* sederhana menggunakan **Figma** dan **Canva**.
+
+## 🛠️ Tech Stack & Tools (Yang sedang saya pelajari)
+
+**Languages:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Game Dev & Mobile:**
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Tools & Design:**
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📈 GitHub Stats
+<!-- Kamu bisa menggunakan GitHub Readme Stats API di sini -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinazee&show_icons=true&theme=radical)](https://github.com/Akinazee)
+
+## 📫 Mari Terhubung!
+* **LinkedIn:** [Profil LinkedIn Kamu](https://www.linkedin.com/in/farelindra/).
+* **Email:** farelindrajanuarta9@gmail.com
+
+⭐️ *Still learning, still growing, and currently having fun building games!*
 
 |No Modul|Pertemuan|Topik|Repo|Laporan|
 |---|---|---|---|---|
