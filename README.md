@@ -28,7 +28,7 @@ Lately, I've been really drawn to the world of **Game Development**. I'm current
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📈 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinazee&show_icons=true&theme=radical)](https://github.com/Akinazee)
+[![Akinazee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinazee&show_icons=true&theme=radical)](https://github.com/Akinazee)
 
 ## 📫 Let's Connect!
 * **LinkedIn:** [Click Here :3](https://www.linkedin.com/in/farelindra/)
