@@ -1,19 +1,17 @@
-Saya seorang Mahasiswa Teknik Informatika yang berasal dari 
+# Hey there! 👋
 
-# Hi there! 👋
+I'm a 6th-semester Informatics Engineering student at **Universitas Islam Maulana Malik Ibrahim Malang**. Right now, I'm just a student figuring things out and leveling up my coding skills. I've dabbled a bit in web and mobile development, but I know I still have a long way to go! 🌱
 
-Saya adalah mahasiswa semester 6 di **Universitas Islam Maulana Malik Ibrahim Malang**. Saat ini saya masih belajar dan mengasah kemampuan di dunia pemrograman. Saya sudah sempat mencoba-coba berbagai bidang seperti *web*, dan *mobile* developmenmt, namun perjalanan belajar saya tentu masih panjang! 🌱
+Lately, I've been really drawn to the world of **Game Development**. I'm currently having a blast learning and experimenting with simple games using **Unity**. I'm starting here, but I'm definitely open to exploring other game engines in the future! 🚀
 
-Akhir-akhir ini, ketertarikan saya sedang tertuju pada **Game Development**. Sekarang saya sedang seru-serunya belajar dan bereksperimen membuat *game* sederhana menggunakan **Unity**, meskipun tidak menutup kemungkinan untuk mencoba belajar *game engine* lain ke depannya. 🚀
+## 🎯 What I'm currently up to
+* 🎮 Getting the hang of Game Development basics using **Unity (C#)**.
+* 📱 Learning how to build mobile apps with **Flutter (Dart)**.
+* 💻 Writing some web code with **PHP** and playing around with data using **Python (Pandas, NumPy)**.
+* 🗄️ Trying to wrap my head around **Database** concepts and management.
+* 🎨 Designing UIs and making simple project assets using **Figma** and **Canva**.
 
-## 🎯 Apa yang sedang saya pelajari & kerjakan?
-* 🎮 Sedang seru mendalami dasar-dasar *Game Development* menggunakan **Unity (C#)**.
-* 📱 Mempelajari pembuatan aplikasi *mobile* dengan **Flutter (Dart)**.
-* 💻 Mencoba *coding* untuk *web* dengan **PHP** dan mengolah data menggunakan **Python (Pandas, NumPy)**.
-* 🗄️ Berusaha memahami lebih jauh tentang konsep dan manajemen **Database**.
-* 🎨 Belajar mendesain *UI* dan membuat aset *project* sederhana menggunakan **Figma** dan **Canva**.
-
-## 🛠️ Tech Stack & Tools (Yang sedang saya pelajari)
+## 🛠️ Tech Stack & Tools (Stuff I'm learning)
 
 **Languages:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -30,11 +28,10 @@ Akhir-akhir ini, ketertarikan saya sedang tertuju pada **Game Development**. Sek
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📈 GitHub Stats
-<!-- Kamu bisa menggunakan GitHub Readme Stats API di sini -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akinazee&show_icons=true&theme=radical)](https://github.com/Akinazee)
 
-## 📫 Mari Terhubung!
-* **LinkedIn:** [Click Here :3](https://www.linkedin.com/in/farelindra/).
+## 📫 Let's Connect!
+* **LinkedIn:** [Click Here :3](https://www.linkedin.com/in/farelindra/)
 * **Discord:** Akinaze
 * **Email:** farelindrajanuarta9@gmail.com
 
