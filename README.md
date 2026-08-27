@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a 6th-semester Informatics Engineering student at **Universitas Islam Maulana Malik Ibrahim Malang**. Right now, I'm just a student figuring things out and leveling up my coding skills. I've dabbled a bit in web and mobile development, but I know I still have a long way to go! 🌱
+I'm a 7th-semester Informatics Engineering student at **Universitas Islam Maulana Malik Ibrahim Malang**. Right now, I'm just a student figuring things out and leveling up my coding skills. I've dabbled a bit in web and mobile development, but I know I still have a long way to go! 🌱
 
 Lately, I've been really drawn to the world of **Game Development**. I'm currently having a blast learning and experimenting with simple games using **Unity**. I'm starting here, but I'm definitely open to exploring other game engines in the future! 🚀
 
